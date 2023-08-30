@@ -1,0 +1,18 @@
+h1¨{
+color: rgb(255, 0, 0);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+.jasper{
+color: rgb(63, 0, 0);
+       }
+table,td{
+border-collapse: ;
+border: 2px; 
+border: solid #8a0000;
+        }
+img:hover{
+filter: saturate(99999%); -webkit-transform: rotateY(180deg); box-shadow: 0px 0px 15px 15px #000000;
+         }
+         
+
+         
